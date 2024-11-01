@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.startButtion{
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
